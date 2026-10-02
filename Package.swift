@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GreenVideoSDK",
-            url: "https://github.com/sprnxt/supernext-video-swift-package/releases/download/0.0.0/GreenVideoSDK.xcframework.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            url: "https://github.com/sprnxt/supernext-video-swift-package/releases/download/2.0.88/GreenVideoSDK.xcframework.zip",
+            checksum: "4c4391573f89f684996dc5c51fa70642f7f6c902bf11743988b052861f470115"
         ),
         .target(
             name: "GreenVideoSDKWrapper",
